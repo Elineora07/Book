@@ -1,0 +1,73 @@
+/* .div1 {
+    background: url('/static/img/index.jpeg') no-repeat;
+    background-size: contain;
+    height: 1000px;
+    width: 1000px;
+} */
+html, body {
+    font-size: 16px;
+}
+
+a {
+    color:darkred;
+}
+h1 {
+    color: red;
+}
+
+.emblem {
+    width: 80px;
+    left: 0px;
+}
+.image {
+    height: 25rem;
+    border-radius: 10px;
+}
+.image:hover {
+    color: rgb(240, 4, 4);
+    box-shadow: 5px 5px 15px 2px rgba(25, 0, 250, 0.4);
+    background: linear-gradient(888deg, rgb(13, 0, 255) 0%, rgb(26, 26, 248) 0%, rgb(0, 0, 238) 0%, rgb(0, 0, 255) 0%, rgb(0, 76, 255) 100%);
+}
+/* .imag {
+    background: url("/static/img/kitob.jpg"); 
+    background-size: cover; 
+
+} */
+/* .d1 {
+    background: url("/static/img/kitob.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover; 
+    
+} */
+.image-size {
+    height: 250px;
+}
+.image {
+    height: 200px;
+    
+} 
+.div {
+    color: blue;
+}
+.main_content {
+    min-height: calc(100vh - 120px);
+}
+.footer {
+    height: 119px;
+}
+h1 {
+    color: red;
+    box-shadow: 5px 5px 15px 2px rgb(3, 35, 221);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  }
+  h3 {
+    color: blue;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
